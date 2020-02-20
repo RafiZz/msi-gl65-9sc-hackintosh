@@ -488,6 +488,7 @@
 				<data>SU9LaXM=</data>
 				<key>InfoPlistPatch</key>
 				<true/>
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Prevent Apple I2C kexts from attaching to I2C controllers, credit CoolStar</string>
